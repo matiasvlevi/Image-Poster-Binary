@@ -8,3 +8,8 @@ Be sure to be authentified with git
 ```
 git clone [your hosted repository]
 ```
+
+In my case, I am hosting on this repository
+```
+git clone https://github.com/matiasvlevi/image-samples.git
+```
